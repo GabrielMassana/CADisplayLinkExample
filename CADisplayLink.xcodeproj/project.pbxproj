@@ -60,7 +60,6 @@
 		C08F7B171A666DB30002B58F /* CADisplayLinkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CADisplayLinkTests.m; sourceTree = "<group>"; };
 		C08F7B211A6671240002B58F /* ViewControllerTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerTwo.h; sourceTree = "<group>"; };
 		C08F7B221A6671240002B58F /* ViewControllerTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerTwo.m; sourceTree = "<group>"; };
-		C08F7B241A667AC50002B58F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		C08F7B271A667B340002B58F /* frame_000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame_000.png; sourceTree = "<group>"; };
 		C08F7B281A667B340002B58F /* frame_001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame_001.png; sourceTree = "<group>"; };
 		C08F7B291A667B340002B58F /* frame_002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame_002.png; sourceTree = "<group>"; };
@@ -129,7 +128,6 @@
 				C08F7B261A667B340002B58F /* FrameAnimation */,
 				C08F7B081A666DB30002B58F /* Images.xcassets */,
 				C08F7B0A1A666DB30002B58F /* LaunchScreen.xib */,
-				C08F7B241A667AC50002B58F /* 1.png */,
 				C08F7AFB1A666DB30002B58F /* Supporting Files */,
 			);
 			path = CADisplayLink;
@@ -496,6 +494,7 @@
 				C08F7B1D1A666DB30002B58F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C08F7B1E1A666DB30002B58F /* Build configuration list for PBXNativeTarget "CADisplayLinkTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +503,7 @@
 				C08F7B201A666DB30002B58F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
